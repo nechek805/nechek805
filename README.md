@@ -110,8 +110,8 @@ Backend + frontend application for URL processing and automation.
 ## 📫 Contact
 
 * GitHub: https://github.com/nechek805
-* Telegram: @your_telegram
-* Email: [your_email@example.com](mailto:your_email@example.com)
+* Telegram: @nechek805
+* Email: [chekmakkonstantin@gmail.com](mailto:chekmakkonstantin@gmail.com)
 
 ---
 
