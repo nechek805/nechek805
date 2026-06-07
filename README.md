@@ -8,7 +8,7 @@ I build backend systems using Python, FastAPI, PostgreSQL, and modern AI APIs su
 
 ## 🚀 About Me
 
-* 1.5+ years of commercial backend development experience
+* 2 years of commercial backend development experience
 * Building AI-powered Telegram bots and backend services
 * Integrating LLM APIs and voice AI systems
 * Designing REST APIs and scalable backend architecture
